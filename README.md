@@ -1,2 +1,2 @@
-# Decadent-Design
-Adult Web Design
+# Decadent-Web-Design
+Adult Web Design, SEO, SERP, and Content Issues.
